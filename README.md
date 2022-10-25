@@ -1,4 +1,3 @@
 # Evidencia08
 
-Integrantes: Nicolás Pacheco.
-             Marcelo Henríquez.
+Integrantes: Nicolás Pacheco, Marcelo Henríquez.
